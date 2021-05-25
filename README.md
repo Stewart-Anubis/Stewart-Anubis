@@ -20,8 +20,8 @@
   </a>
 </p>
 
-#### - general
-hello :3
+#### - hello :3
+
 * Welcome to my GitHub profile.
 * I created this profile with the purpose of saving my SourcePawn codes for when I needed it, but with time I saw that it could help many people.
 * Because before I acquired some knowledge (I am still learning) I suffered with buggy plugins and abandoned by the internet outside.
