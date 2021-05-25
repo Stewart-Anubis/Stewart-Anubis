@@ -20,7 +20,7 @@
   </a>
 </p>
 
-#### - hello :3
+#### - Hello :)
 
 * Welcome to my GitHub profile.
 * I created this profile with the purpose of saving my SourcePawn codes for when I needed it, but with time I saw that it could help many people.
