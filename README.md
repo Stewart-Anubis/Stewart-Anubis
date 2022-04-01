@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FStewart-Anubis&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%8C%B1visitor%3A&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![GitHub: @Stewart-Anubis](https://img.shields.io/static/v1?label=&message=Stewart-Anubis&style=flat-square&logo=github&color=ee77ee&labelColor=002200)](https://github.com/Stewart-Anubis)
-[![Steam: mikopero](https://img.shields.io/static/v1?label=&message=Анубис&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](https://steamcommunity.com/id/stewartbh)
+[![Steam: mikopero](https://img.shields.io/static/v1?label=&message=Анубис&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](https://steamcommunity.com/id/anubisbh)
 ![Discord: Анубис#0446](https://img.shields.io/static/v1?label=Анубис&message=%230446&style=flat-square&logo=discord&color=ee77ee)
 
 <p>
