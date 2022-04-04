@@ -30,7 +30,7 @@
 * The vast majority of what I do and publish if you want something more specific, please get in touch.
 
 
-[Server Zr-Clan-Br 177.37.113.17:27015](steam://connect/177.37.113.17:27015)
+[Server Zr-Clan-Br 177.37.113.17:27015](steam://connect/177.37.113.17:27015);
 
 ## Donate and encourage to continue scheduled.
 
