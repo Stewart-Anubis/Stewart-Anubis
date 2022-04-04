@@ -9,7 +9,7 @@
 
 [![GitHub: @Stewart-Anubis](https://img.shields.io/static/v1?label=&message=Stewart-Anubis&style=flat-square&logo=github&color=ee77ee&labelColor=002200)](https://github.com/Stewart-Anubis)
 [![Steam: mikopero](https://img.shields.io/static/v1?label=&message=Анубис&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](https://steamcommunity.com/id/anubisbh)
-![Discord: Анубис#0446](https://img.shields.io/static/v1?label=Анубис&message=%230446&style=flat-square&logo=discord&color=ee77ee)(https://discord.com/invite/GaPuvkx8XQ)
+[![Discord: Анубис#0446](https://img.shields.io/static/v1?label=Анубис&message=%230446&style=flat-square&logo=discord&color=ee77ee)](https://discord.com/invite/GaPuvkx8XQ)
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
