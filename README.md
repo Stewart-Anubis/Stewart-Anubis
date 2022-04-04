@@ -29,7 +29,7 @@
 * I like to schedule and help servers at the beginning of their journey.
 * The vast majority of what I do and publish if you want something more specific, please get in touch.
 
-[![Steam: Zr-Clan-Br&nbsp;177.37.113.17:27015](https://img.shields.io/static/v1?label=Zr-Clan-Br&nbsp;&message=177.37.113.17:27015&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](steam://connect/177.37.113.17:27015)
+[![Steam: Zr-Clan-Br](https://img.shields.io/static/v1?label=SERVERnbsp;Zr-Clan-Br&nbsp;&message=177.37.113.17:27015&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](steam://connect/177.37.113.17:27015)
 
 ## Donate and encourage to continue scheduled.
 
