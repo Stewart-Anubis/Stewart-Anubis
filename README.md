@@ -32,7 +32,7 @@
 
 <img src="https://raw.githubusercontent.com/Stewart-Anubis/Stewart-Anubis/main/csgo.png" />[Server Zr-Clan-Br 177.37.113.17:27015](steam://connect/177.37.113.17:27015)
 
-[![Steam: mikopero](https://img.shields.io/static/v1?label=&message=Server Zr-Clan-Br 177.37.113.17:27015&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](steam://connect/177.37.113.17:27015)
+[![Steam: mikopero](https://img.shields.io/static/v1?label=&message=Server-Zr-Clan-Br-177.37.113.17:27015&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](steam://connect/177.37.113.17:27015)
 
 ## Donate and encourage to continue scheduled.
 
