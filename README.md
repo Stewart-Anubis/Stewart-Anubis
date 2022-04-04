@@ -30,6 +30,8 @@
 * The vast majority of what I do and publish if you want something more specific, please get in touch.
 
 
+[![Server Zr-Clan-Br 177.37.113.17:27015](https://raw.githubusercontent.com/Stewart-Anubis/Stewart-Anubis/main/csgo.png)](steam://connect/177.37.113.17:27015)
+
 ## Donate and encourage to continue scheduled.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=QQNFUZ2CDLBMQ)
