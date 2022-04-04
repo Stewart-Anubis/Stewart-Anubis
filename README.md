@@ -32,6 +32,8 @@
 
 <img src="https://raw.githubusercontent.com/Stewart-Anubis/Stewart-Anubis/main/csgo.png" />[Server Zr-Clan-Br 177.37.113.17:27015](steam://connect/177.37.113.17:27015)
 
+[![Steam: Server Zr-Clan-Br 177.37.113.17:27015](https://img.shields.io/static/v1?label=&message=Анубис&style=flat-square&logo=steam&labelColor=002200&color=ee77ee)](steam://connect/177.37.113.17:27015)
+
 ## Donate and encourage to continue scheduled.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=QQNFUZ2CDLBMQ)
